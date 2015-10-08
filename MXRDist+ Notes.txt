@@ -1,0 +1,6 @@
+Version 1.0
+Initial design for 1590a enclosure
+There is a problem where the LED goes straight to ground, so the LED would always be on...
+
+Version 1.1
+Fixed issue with LED, so LED will now go to LED pad which can be wired to 3PDT.
