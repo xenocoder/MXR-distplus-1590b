@@ -1,0 +1,36 @@
+Partlist
+
+Exported from MXRDist+.brd at 10/21/21 8:26 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package       Library         Position (mil)        Orientation
+
+C1       1uF            050_020_1     mb_caps-electro (200 450)             R270
+C2       10nF           072X035       mb_caps-box     (350 1000)            R180
+C3       1nF            072X025       mb_caps-box     (350 1200)            R0
+C4       47nF           072X035       mb_caps-box     (1150 600)            R90
+C5       10pF           050X030_050_1 mb_caps-ceramic (1850 650)            R270
+C6       1uF            050_020_1     mb_caps-electro (1950 1100)           R90
+C7       1nF            072X025       mb_caps-box     (700 1400)            R180
+D1       1N914          DO35-3        mb_diodes       (1550 1100)           R270
+D2       1N914          DO35-3        mb_diodes       (1700 1100)           R90
+D3       LED            LED3MM        mb_diodes       (1060 1650)           R180
+D4       LED3MM         LED3MM        mb_diodes       (1550 1450)           R270
+D5       LED3MM         LED3MM        mb_diodes       (1700 1450)           R90
+IC1      LM741P         DIL08         mb_ics          (1500 650)            R180
+POT1     C500K          16MM          mb_pots         (950 1100)            R90
+POT2     A50K           16MM          mb_pots         (1180 1100)           R270
+R1       1M5            R0207/3       mb_resistors    (550 500)             R180
+R2       1M             R0207/3       mb_resistors    (550 650)             R180
+R3       1M             R0207/3       mb_resistors    (550 350)             R0
+R4       1M             R0207/3       mb_resistors    (450 800)             R0
+R5       10K            R0207/3       mb_resistors    (750 1000)            R270
+R6       4.7K           R0207/3       mb_resistors    (950 600)             R270
+R7       4.7K           R0207/3       mb_resistors    (1450 1650)           R0
+R8       1M             R0207/3       mb_resistors    (1850 350)            R180
+R9       10K            R0207/3       mb_resistors    (1400 1100)           R90
+SW1                     M9040P        mb_switches     (600 1600)            R90
+U$1      BOARDLINK      BOARDLINK     xc_library      (950 150)             R0
