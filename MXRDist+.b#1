@@ -88,8 +88,8 @@
 <wire x1="6.35" y1="44.45" x2="6.35" y2="38.1" width="0.1524" layer="20"/>
 <wire x1="6.35" y1="38.1" x2="0" y2="38.1" width="0.1524" layer="20"/>
 <wire x1="0" y1="38.1" x2="0" y2="5.08" width="0.1524" layer="20"/>
-<text x="2.794" y="13.716" size="1.27" layer="25" rot="R90">Xenocoder Designs 10.2021</text>
-<text x="26.416" y="8.89" size="1.27" layer="25">XenoDrive v1.1</text>
+<text x="2.794" y="13.716" size="1.27" layer="25" rot="R90">Birkeland Designs 05.2025</text>
+<text x="26.416" y="8.89" size="1.27" layer="25">MaxCrunch v1.0</text>
 </plain>
 <libraries>
 <library name="mb_resistors">
